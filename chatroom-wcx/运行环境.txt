@@ -1,0 +1,9 @@
+运行环境
+anaconda
+Python3.7
+Pillow
+
+conda create -n "name" python=3.7
+conda deactivate
+conda activate name
+conda install pillow
